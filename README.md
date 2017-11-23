@@ -1,3 +1,13 @@
+{::nomarkdown}
+    <div class="container">
+    <div class="block two first">
+            <h3>First cup up and running in a Linux virtual machine of virtual box</h3>
+            <div class="wrap">
+  	         <img src="https://raw.githubusercontent.com/MaxReinerFullStack/FirstCup/master/SampleImages/firstcup_and_dukes_age_up_and_running.png" style="max-width:100%;" />
+             </div>
+	    </div>  
+ </div>
+	{:/}
 # First Cup of Java EE examples
 
 This repository contains the example source that is used in the
@@ -26,4 +36,3 @@ Clone this repository and build the examples using:
 ```
 mvn package
 ```
-
